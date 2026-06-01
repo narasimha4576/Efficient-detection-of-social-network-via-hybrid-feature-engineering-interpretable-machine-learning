@@ -5,9 +5,9 @@ Department of CSE (Artificial Intelligence)
 
 | Roll No     | Name                    |
 |-------------|-------------------------|
-| 22F61A3129  | Y. Pratheep Kumar       |
+| 22F61A3109  | V LAKSHMI NARASIMHA     |
 | 22F61A3112  | S. Likhitha             |
-| 22F61A3109  | V. Lakshmi Narasimha    |
+| 22F61A3127  | Y PRADEEP KUMAR         |
 | 22F61A3136  | K. Samanth Kumar Reddy  |
 
 **Supervisor:** Dr. N. Babu, M.E., Ph.D. — Associate Professor, Dept. of CSE (AIMD)
