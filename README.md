@@ -19,7 +19,7 @@ using **Hybrid Feature Engineering** and two interpretable classifiers:
 - **Logistic Regression** — linear baseline with high interpretability
 - **Random Forest** — ensemble model with built-in feature importance
 
-A built-in scikit-learn dataset (Breast Cancer Wisconsin) is used as a binary
+A built-in scikit-learn dataset is used as a binary
 classification proxy (Bot vs Human), with three engineered features added
 to simulate real social-network behavioural signals.
 
