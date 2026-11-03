@@ -6,6 +6,7 @@ Department of CSE (Artificial Intelligence)
 | Roll No     | Name                    |
 |-------------|-------------------------|
 | 22F61A3109  | V LAKSHMI NARASIMHA     |
+|22F61A3151   | M YEKESWAR              |
 
 **Supervisor:** Dr. N. Babu, M.E., Ph.D. — Associate Professor, Dept. of CSE (AIMD)
 
